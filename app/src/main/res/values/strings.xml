@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RetrofitWork</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="what_are_you_looking_for">What are you looking for?</string>
+    <string name="search">Search</string>
+    <string name="fill_request">Fill in the request</string>
+
+    <array name="image_types">
+        <item>all</item>
+        <item>photo</item>
+        <item>illustration</item>
+        <item>vector</item>
+    </array>
+
+    <array name="image_order">
+        <item>popular</item>
+        <item>latest</item>
+    </array>
+
+    <string name="likes">Likes: %1$d</string>
+    <string name="favourites">Favourites: %1$d</string>
+    <string name="views">Views: %1$d</string>
+    <string name="downloads">Downloads: %1$d</string>
+</resources>
